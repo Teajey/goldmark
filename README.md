@@ -1,3 +1,7 @@
+# Why am I forking this?
+
+To make a breaking change to goldmark's API that allows any HTML attribute to be rendered on an ast.Node if html.WithUnsafe() is active :^)
+
 goldmark
 ==========================================
 
